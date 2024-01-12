@@ -1,1 +1,3 @@
 entering line 1 in f1 file
+creating merge conflict in b2
+
